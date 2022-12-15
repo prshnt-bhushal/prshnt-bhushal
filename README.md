@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prshnt-bhushal
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning BE Computer Engineering
+- 🌱 I’m currently learning BE Computer Engineering, 4th year.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... prshnt.bhushal@gmail.com
 
