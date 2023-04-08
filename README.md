@@ -18,7 +18,7 @@
 
 <br/>
 <p align="left">
-  <a href="http://torrinleonard.com/">
+  <a href="https://www.linkedin.com/in/prashant-bhushal-a1154923b/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=prshnt-bhushal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=prshnt-bhushal&theme=radical&hide_border=true">		  
   </a>
@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <a href="http://torrinleonard.com/">
+  <a href="https://www.linkedin.com/in/prashant-bhushal-a1154923b/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prshnt-bhushal&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
