@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Prashant Bhushal</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I'm+Prshnt.;I+love+to+learn.;I'm+from+Nepal;...---...;&center=true&width=500&height=50"></a>
 </p>
