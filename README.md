@@ -18,11 +18,11 @@
   </a>
 </p>
 <br/>
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/prashant-bhushal-a1154923b/">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=prshnt-bhushal&theme=radical&hide_border=true">		  
   </a>
-</p>
+</p> -->
 <br>
 
 <div>
