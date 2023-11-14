@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I'm+Prshnt.;I+love+to+learn.;I'm+from+Nepal;...---...;&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I'm+Prshnt.;I+love+to+learn.;I'm+from+Nepal;&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">It would be great to stay connected and collaborate in the future.</p>
