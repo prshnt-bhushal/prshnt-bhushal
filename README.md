@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Prashant Bhushal</h1>
-<h3 align="left">Computer Engineer</h3>
+<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer Engineer.;From+Nepal;&center=true&width=500&height=50"></a></h3>
 
 👨‍💻 All of my projects are available at [www.prashantbhushal.com.np](www.prashantbhushal.com.np)
 
