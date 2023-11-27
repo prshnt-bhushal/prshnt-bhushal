@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Prashant Bhushal</h1>
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer Engineer.;From+Nepal;&center=true&width=500&height=50"></a></h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&random=false&width=435&lines=Computer+Engineer;From+Nepal)](https://git.io/typing-svg)
 
 👨‍💻 All of my projects are available at [www.prashantbhushal.com.np](www.prashantbhushal.com.np)
 
