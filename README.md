@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm 
   <a href="https://www.linkedin.com/in/prashant-bhushal-a1154923b" target="blank">Prashant Bhushal </a>||
-  <a href="https://www.instagram.com/__prshnt__/">__prshnt__</a> ||
-  <a href="https://www.prashantbhushal.com.np" target="blank">प्रशान्त </a> </h1>
+  <a href="https://www.instagram.com/__prshnt__/" target="_blank">__prshnt__</a> ||
+  <a href="https://www.prashantbhushal.com.np" target="_blank">प्रशान्त </a> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&random=false&width=435&lines=Computer+Engineer;From+Nepal)](https://git.io/typing-svg)
 
