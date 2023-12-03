@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&random=false&width=435&lines=Computer+Engineer;From+Nepal)](https://git.io/typing-svg)
 
-👨‍💻 All of my projects are available at [www.prashantbhushal.com.np](www.prashantbhushal.com.np)
+👨‍💻 All of my projects are available at www.prashantbhushal.com.np
 
 📫 How to reach me **prshnt.extrao1@gmail.com**
 
