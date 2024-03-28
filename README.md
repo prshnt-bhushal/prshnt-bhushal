@@ -1,11 +1,10 @@
 <h1 align="left">Hi 👋, I'm 
   <a href="https://www.linkedin.com/in/prashant-bhushal-a1154923b" target="blank">Prashant Bhushal </a>||
-  <a href="https://www.instagram.com/__prshnt__/" target="_blank">__prshnt__</a> ||
   <a href="https://www.prashantbhushal.com.np" target="_blank">प्रशान्त </a> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&random=false&width=435&lines=Computer+Engineer;From+Nepal)](https://git.io/typing-svg)
 
-👨‍💻 All of my projects are available at [prashantbhushal.com.np](https://www.prashantbhushal.com.np/)
+👨‍💻 Want to [know me](https://www.prashantbhushal.com.np/) ?
 
 📫 How to reach me **prshnt.extrao1@gmail.com**
 
@@ -20,7 +19,7 @@
 <br>
 <p align="left">
   <a href="https://www.linkedin.com/in/prashant-bhushal-a1154923b/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prshnt-bhushal&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prshnt-bhushal&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=pie">
   </a>
 </p>
 <br>
